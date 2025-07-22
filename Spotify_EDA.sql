@@ -82,7 +82,7 @@ from
 where
 	Duration_min = 0;
 
-/* Eith EDA */
+ /* Eigth EDA */
 delete from spotify
 where
 	Duration_Min = 0;
